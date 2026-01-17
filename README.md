@@ -55,7 +55,7 @@ Then navigate to `http://localhost:8000`
 
 ## Structure
 
-```
+```tree
 Interactive-Portfolio/
 ├── index.html          # Main HTML structure
 ├── styles.css          # All styling and animations
@@ -141,4 +141,4 @@ This is a learning project and replica. Feel free to use and modify for your own
 
 ---
 
-**Built with ❤️ as a portfolio template**
+## Built with ❤️ as a portfolio template
