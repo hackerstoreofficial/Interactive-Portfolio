@@ -1,0 +1,14 @@
+<svg width="1600" height="1000" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="proj2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#A8E6CF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3D5A80;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#proj2)"/>
+  <rect x="200" y="200" width="1200" height="600" rx="20" fill="rgba(255,255,255,0.15)"/>
+  <rect x="300" y="300" width="300" height="400" rx="10" fill="rgba(255,255,255,0.2)"/>
+  <rect x="650" y="300" width="300" height="400" rx="10" fill="rgba(255,255,255,0.2)"/>
+  <rect x="1000" y="300" width="300" height="400" rx="10" fill="rgba(255,255,255,0.2)"/>
+  <text x="800" y="900" font-family="Arial, sans-serif" font-size="48" fill="white" text-anchor="middle" opacity="0.9">E-commerce Platform</text>
+</svg>
